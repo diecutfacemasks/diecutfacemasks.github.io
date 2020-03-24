@@ -5,4 +5,4 @@ permalink: /kontakt/
 weight: 9999
 ---
 
-to be done
+[Email](mailto:info@diecutfacemasks.org)
