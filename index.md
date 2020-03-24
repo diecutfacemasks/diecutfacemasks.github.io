@@ -32,14 +32,12 @@ Producing flat products on slow 3D printers is yet another issue. It takes longe
 We beleive that face masks that protect the bystanders, last for the duration of shopping in the supermarket, the morning commute to work, can be made efficiently using the tools present in print shops and folding box industries. Die cutters and rotary die cutter tooling in presses may process hundreds of square meters of cardboard in an hour. Print shops, large and small, are located all around the world,
 
 
-
 # What's missing?
 
 1. Reference Designs
 1. Tricks, hints for Production
-1. **A Platform** to share the Knowledge!
+1. **A Platform** to share the Knowledge, Review and Feedback.
 
-In this current situation, we do not beleive 
 
 # Where are we at?
 
