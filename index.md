@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 list_title: Veröffentlichungen
+title: "Let's die cut face masks"
 ---
 
-# Let's die cut face masks
 
 In this exceptional situation, people aroud the world struggle to break the COVID-19 infection chains.
 
