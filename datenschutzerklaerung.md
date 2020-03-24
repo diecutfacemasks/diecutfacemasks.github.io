@@ -25,19 +25,11 @@ _III. Information about the data processing_
 
 The party responsible for this website (the "controller") for purposes of data protection law is:
 
-Thomas Sprinzing
-
-Raitelsbergstraße 31a
-
-70188 Stuttgart
-
-Germany
+Thomas Sprinzing, Raitelsbergstraße 31a, 70188 Stuttgart, Germany
 
 Email: thomas_sprinzing@web.de
 
-The controller's data protection officer is:
-
-Thomas Sprinzing
+The controller's data protection officer is: Thomas Sprinzing
 
 
 ## II. The rights of users and data subjects
