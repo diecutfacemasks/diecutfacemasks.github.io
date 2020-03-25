@@ -11,11 +11,10 @@ Here we will collect some of the resources we have found so far.
 
 ## Designers
 
-Have a look at [this youtube
-video](https://www.youtube.com/watch?v=4BGJIA50tes) showing an example of paper
-face masks produced in Italy.
+Have a look at this youtube video showing an example of paper face masks
+produced in Italy.
 
-<!-- {% include youtube.html id=4BGJIA50tes %} -->
+{% include youtube.html id="4BGJIA50tes" %}
 
 We're trying to get in contact and get the reference design files.
 
