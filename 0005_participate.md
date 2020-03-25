@@ -6,6 +6,10 @@ layout: background
 title: "Participate"
 ---
 
+If you'd like to participate, please send uns an
+[email](info@diecutfacemasks.org), let us know about your location, situation,
+needs, how you could help. We'll bring you on board as fast as we can.
+
 ## Mask Production
 
 - designers,
@@ -26,9 +30,3 @@ We need your expertise. Please help.
 - machinery or software
 
 Please take part in this project and see how you can help out.
-
-## How to participate
-
-Send uns an [email](info@diecutfacemasks.org), let us know about your location,
-situation, needs, how you could help. We'll bring you on board as fast as we
-can.
