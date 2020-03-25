@@ -39,5 +39,3 @@ Please let us know if you are willing to offer help, advice, capacity or anythin
 Send uns an [email](info@diecutfacemasks.org), let us know about your location,
 situation, needs, how you could help. We'll bring you on board as fast as we
 can.
-
-
