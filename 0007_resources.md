@@ -13,7 +13,7 @@ Here we will collect some of the resources we have found so far.
 
 Have a look at:
 
-{% include youtube.html id=4BGJIA50tes %}
+{% include youtube.html id="4BGJIA50tes" %}
 
 We're trying to get in contact and get the reference design files.
 
