@@ -10,22 +10,25 @@ title: "Participate"
 
 - designers,
 - producers of face masks,
+- print and packaging companies already certified to produce for pharma or food packaging
 - printers, converters, bookbinders, who have been asked to produce masks or parts of masks
 
 Please use this platform to connect and share.
 
 ## Mask evaluation
+
 - medical experts or testing and certification centers
 - university or higher education institutions
-- print or packaging industry association
+- print or packaging industry associations
 
-We need your expertise. Please help.
+We need your expertise. The ideas need reviewing. Please help.
 
 ## Support
 
-- machinery or software
+- machinery or software companies
+- ink and material Manufacturers
 
-Please take part in this project and see how you can help out.
+Please let us know if you are willing to offer help, advice, capacity or anything else to us or the community.
 
 ## How to participate
 
