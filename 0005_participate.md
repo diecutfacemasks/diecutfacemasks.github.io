@@ -32,7 +32,6 @@ We need your expertise. The ideas need reviewing. Please help.
 - machinery or software companies
 - ink and material Manufacturers
 
-<<<<<<< HEAD
 Please let us know if you are willing to offer help, advice, capacity or anything else to us or the community.
 
 ## How to participate
@@ -40,6 +39,5 @@ Please let us know if you are willing to offer help, advice, capacity or anythin
 Send uns an [email](info@diecutfacemasks.org), let us know about your location,
 situation, needs, how you could help. We'll bring you on board as fast as we
 can.
-=======
-Please take part in this project and see how you can help out.
->>>>>>> 22a505a86c8a8867af3368d65b0545378a4ad4dc
+
+
