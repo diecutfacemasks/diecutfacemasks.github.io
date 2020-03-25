@@ -30,7 +30,7 @@ We need your expertise. The ideas need reviewing. Please help.
 ## Support
 
 - machinery or software companies
-- ink and material Manufacturers
+- ink and material manufacturers
 
 Please let us know if you are willing to offer help, advice, capacity or anything else to us or the community.
 
