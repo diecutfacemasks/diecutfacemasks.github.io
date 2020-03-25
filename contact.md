@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Kontakt & Impressum
-permalink: /kontakt/
+title: Contact & Imprint
+permalink: /contact/
 weight: 9999
 ---
-# Kontakt
+# Contact us
 [Email](mailto:info@diecutfacemasks.org)
 
-<div class='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>Thomas Sprinzing <br> 
+# Imprint
+This imprint has been auto-generated and not yet been translated. It is a necessity due to German law and probably of little benefit to anyone outside of Germany.
+
+<div class='impressum'><h2>Impressum</h2><p>Angaben gemäß § 5 TMG</p><p>Thomas Sprinzing <br> 
 Raitelsbergstr. 31a<br> 
 70188 Stuttgart <br> 
 </p><p> <strong>Vertreten durch: </strong><br>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Datenschutzerklärung
-permalink: /datenschutzerklaerung
+title: Data protection agreement
+permalink: /dataprotection
 weight: 99999
 hidden: true
 ---
