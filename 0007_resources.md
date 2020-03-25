@@ -11,7 +11,8 @@ Here we will collect some of the resources we have found so far.
 
 ## Designers
 
-Have a look at:
+Have a look at this youtube video showing an example of paper face masks
+produced in Italy.
 
 {% include youtube.html id="4BGJIA50tes" %}
 

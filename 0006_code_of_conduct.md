@@ -4,6 +4,8 @@ layout: background
 title: "Code of Conduct"
 ---
 
+We ask you to comply with the following code of conduct.
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
