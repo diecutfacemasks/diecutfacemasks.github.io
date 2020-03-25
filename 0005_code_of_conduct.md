@@ -1,6 +1,6 @@
 ---
-layout: home
-list_title: Publications
+layout: background
+#list_title: Publications
 title: "Code of Conduct"
 ---
 # Contributor Covenant Code of Conduct
